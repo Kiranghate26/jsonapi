@@ -1,0 +1,64 @@
+[
+    {
+      
+     id: "1",
+      image: require("../../assets/course/web.jpg"),
+      title: "Lot 001 -Renwood",
+      description:
+        "Accusystems 'MMTJ-3' MiterDoor Machine ,Year 2006 ",
+     price: "$ 5,101.00 USD",
+      ofBids: "22",
+      timeLeft: "0 days 07:15:30",
+    },
+    {
+        id: "2",
+        image: require("../../assets/course/web.jpg"),
+        title: "Lot 002 -Renwood",
+        description:
+          "Unique '3450' MiterDoor Machine ,Year 2014 ",
+       price: "$ 4000.00 USD",
+        ofBids: "22",
+        timeLeft: "0 days 07:20:01",
+    },
+    {
+        id: "3",
+        image: require("../../assets/course/web.jpg"),
+        title: "Lot 003 -Renwood",
+        description:
+          "CR Onsurd'3025' Invented Pin Router,Year 2006 ",
+       price: "$ 5000 USD",
+        ofBids: "22",
+        timeLeft: "0 days 07:15:30",
+    },
+    {
+        id: "4",
+        image: require("../../assets/course/web.jpg"),
+        title: "Lot 004 -Renwood",
+        description:
+          "JLT tailor '79x-5m' Rotary 5d station MiterDoor clamp ,Year 2005 ",
+       price: "$ 5000 USD",
+        ofBids: "22",
+        timeLeft: "0 days 07:15:30",
+    },
+    {
+        id: "5",
+        image: require("../../assets/course/web.jpg"),
+        title: "Lot 005 -Renwood",
+        description:
+          "Accusystems 'MMTJ-3' MiterDoor Machine ,Year 2004 ",
+       price: "$ 5000 USD",
+        ofBids: "22",
+        timeLeft: "0 days 07:15:30",
+    },
+    {
+        id: "6",
+        image: require("../../assets/course/web.jpg"),
+        title: "Lot 006 -Renwood",
+        description:
+          "JLT tailor 'MMTJ-3 MiterClamp Machine ,Year 2003 ",
+       price: "$ 5000 USD",
+        ofBids: "22",
+        timeLeft: "0 days 07:15:30",
+    },
+  ];
+  
